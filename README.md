@@ -6,6 +6,8 @@
 
 This project aims to predict customer churn in the telecom industry by handling class imbalance. The dataset used for this project is the Telco Customer Churn dataset from Kaggle. The project involves data preprocessing, exploratory data analysis, feature engineering, and model training with hyperparameter tuning.
 
+**Kaggle Dataset** -->> https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data
+
 ## Table of Contents
 
 1. [Import Necessary Libraries](#import-necessary-libraries)
